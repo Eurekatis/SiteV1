@@ -1,5 +1,5 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: Site Eurekatis
 featured_image: "/images/notebook.jpg"
 description: The last theme you'll ever need. Maybe.
 
